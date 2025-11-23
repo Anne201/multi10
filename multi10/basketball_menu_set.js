@@ -6,4 +6,5 @@ menu_items = new Array(
 , "4+/5+ 心算,data/add-4.js"
 , "6+/7+ 心算,data/add-5.js"
 , "8+/9+/0+ 心算,data/add-6.js"
+, "1-9加法心算,data/add-7.js"
 );
