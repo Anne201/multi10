@@ -6,7 +6,7 @@
 //------------------------------
 //共有幾個選項
 //------------------------------
-optionsTotal = 4;
+optionsTotal = 5;
 
 //------------------------------
 //一列有幾個選項(pk, 王牌投手用)
@@ -104,4 +104,5 @@ question_lines = function(){/*--這一行請勿更改--
 getOneQuestion = function(tools) {
 	return tools.getOneQuestion(question_lines, [seperator, seperator2]);
 };
+
 
