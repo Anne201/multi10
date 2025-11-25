@@ -93,7 +93,7 @@ question_lines = function(){/*--這一行請勿更改--
 8+1=##9
 8+2=##10
 9+1=##10
-尸
+
 -----*/}.toString().replace(/\r/g,"").slice("function(){/*--這一行請勿更改--".length+1,-9);
 
 
